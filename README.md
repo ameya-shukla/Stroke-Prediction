@@ -7,12 +7,11 @@ Dataset is available to download [here](https://www.kaggle.com/fedesoriano/strok
 
 
 
-Dependencies:
-
-Python 3.9.4
-Numpy
-Pandas
-Matplotlib
-Seaborn
-scikit-learn
+Dependencies: 
+Python 3.9.4,
+Numpy,
+Pandas,
+Matplotlib,
+Seaborn,
+scikit-learn,
 imblearn
