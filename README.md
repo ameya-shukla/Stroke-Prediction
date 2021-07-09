@@ -6,8 +6,7 @@ Code Reference : https://www.kaggle.com/nadeem4nk/stroke-prediction-95-accuracy
 Dataset is available to download [here](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset)
 
 
-
-Dependencies: 
+**Dependencies**: 
 Python 3.9.4,
 Numpy,
 Pandas,
