@@ -14,3 +14,8 @@ Matplotlib,
 Seaborn,
 scikit-learn,
 imblearn
+
+
+**Project Overview**:
+
+Created a model for prediction of Stroke among people using Logistic Regression. Extracted insights by performing Exploratory Data Analysis and various Visualisations using Seaborn and Matplotlb library in order to compare various features of the dataset with the output feature. Handled Missing Values by performing Feature Engineering and applied One Hot Encoding to the categorical features for model building and its efficiency. Because of magnitude differences among various feature, Standard Scaler has been implemented to scale the values of all the features to a common magnitude for the better performance of the model. Finally, Logistic Regression model has been implemented to create the model.
